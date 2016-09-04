@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+
+        <link rel="stylesheet" type="text/css" media="all" href="{{ SITEURL }}/theme/css/style.css" />
+        {% endblock head %}
+</head>
+
+<body id="index" class="home page page-id-18 page-template-default">
+    <div id="wrapper" class="hfeed">
+
+        <div id="header">
+          <div id="headerhover"><a id="headerhover" href="http://redearthfarms.org"><span>Red Earth Farms Home</span></a>
+          </div>
+        </div>
+
+        <div id="main">
+
+          <!-- Obvs.... -->
+          <div id="image_box">
+          <div id="random_images">
+          </div>
+          </div>
+
+          <div id="primary" class="widget-area" role="complementary">
+            <ul class="xoxo">
+              <li id="nav_menu-3" class="widget-container widget_nav_menu">
+                <div class="menu-red-earth-farms-container">
+                  <ul id="menu-red-earth-farms" class="menu">
+                    {% for title, link in MENUITEMS %}
+                        <li{% if link == output_file %} class="current-menu-item page_item page-item-18 current_page_item"{% endif %}><a href="{{ link }}">{{ title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </li>
+          </div> <!-- primary.widget-area -->
+
+          <div id="container">
+            <div id="content" role="main">
+              <div id="post-18">
+                <div class="entry-content">
+                  {% block content %}
+                  {% endblock %}
+                </div> <!-- class="entry-content" -->
+              </div> <!-- post-18 -->
+            </div> <!-- content -->
+          </div> <!-- container -->
+
+
+      </div> <!-- id=main -->
+    </div> <!-- id=wrapper -->
+
+    <script src="theme/js/img-bar.js"></script>
+
+</body>
+</html>
