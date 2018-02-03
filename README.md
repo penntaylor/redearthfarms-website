@@ -20,8 +20,8 @@ Everything you are concerned with lives in the content directory. All pages in /
   * ensure that "Commit directly to the `master` branch." is selected
   * click the "Commit changes" button
   * (THIS PART ISN'T SET UP YET) After ~20 seconds, the live website should be updated with your changes. Test by browsing to the site and being sure to refresh the particular page(s) you edited.
-  
+
 
 # For anyone else who is looking at this repo
 
-There isn't anything available here that isn't available directly from our website, except for some of the python scripts that make the sauage.
+There isn't anything available here that isn't available directly from our website, except for some of the python scripts that make the sausage.
