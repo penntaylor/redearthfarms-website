@@ -1,5 +1,5 @@
 Title: History
-Date: 2016-08-21
+Date: 2018-02-03
 Category: History
 
 Red Earth Farms was founded in 2005, when we invented our name, defined our vision, and began living together. On June 21, 2005, our friend and benefactor Aron Heintz did us the great service of buying the land for the community.

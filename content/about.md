@@ -1,5 +1,5 @@
 Title: About
-Date: 2016-08-21
+Date: 2018-02-03
 Category: About
 
 The purpose of Red Earth Farms is to take part in the creation of a better future by exploring and evaluating ways to meet our needs with love and respect for all beings.
