@@ -10,9 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-# SITEURL = 'http://redearthfarms.org'
-#SITEURL = 'http://org-redearthfarms-test.s3-website-us-east-1.amazonaws.com'
-SITEURL = "http://redearthfarms.org.s3-website-us-east-1.amazonaws.com"
+SITEURL = 'http://redearthfarms.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
