@@ -24,4 +24,6 @@ Everything you are concerned with lives in the content directory. All pages in /
 
 # For anyone else who is looking at this repo
 
+Did a Red Earth member send you here to find editable versions of our basic documents? If so, look under `content/docs/editable` to find open-document versions of some of our documents.
+
 There isn't anything available here that isn't available directly from our website, except for some of the python scripts that make the sausage.
