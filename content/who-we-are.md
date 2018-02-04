@@ -6,16 +6,16 @@ Below is a list of the people of Red Earth Farms according to their homesteads. 
 
 Bindle: [Jacob]({filename}people/jacob.md)
 
-Coyote Song: Mica
+Coyote Song: Apple
 
 [Chad]({filename}people/chad.md)
 
-[Dandelion]({filename}leaseholds/dandelion.md): [Kim]({filename}people/kim.md), Darien, [Nina]({filename}people/nina.md)
+[Dandelion]({filename}leaseholds/dandelion.md): [Kim]({filename}people/kim.md), [Nina]({filename}people/nina.md)
 
 [Gooseberry](http://mazzo-strawbale.blogspot.com/p/welcome-mark-alyson-and-cole-and-for.html): [Alyson]({filename}people/alyson.md), [Mark]({filename}people/mark.md), [Cole]({filename}people/cole.md)
 
 The Taylors:  Laura, [Penn]({filename}people/penn.md), [Georgia]({filename}people/georgia.md), [Will]({filename}people/will.md), Comeese
 
-Whimseyshire: Carolyn, Matt
+Whimseyshire: Carolyn, Matt, Henri
 
 [Yarrow](https://wildfloweradventures.wordpress.com/yarrow-hill-farms-available/): Valerie, Jack, Natalie, Layla, Gwendolynn
