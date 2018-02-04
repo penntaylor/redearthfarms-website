@@ -19,7 +19,7 @@ Everything you are concerned with lives in the content directory. All pages in /
   * put a very brief description of the changes you made into the first box; eg. "Added basic instructions to the README"
   * ensure that "Commit directly to the `master` branch." is selected
   * click the "Commit changes" button
-  * (THIS PART ISN'T SET UP YET) After ~20 seconds, the live website should be updated with your changes. Test by browsing to the site and being sure to refresh the particular page(s) you edited.
+  * (THIS PART IS STILL IN PROGRESS BUT NOT FULLY OPERATIONAL) After ~20 seconds, the live website should be updated with your changes. Test by browsing to the site and being sure to refresh the particular page(s) you edited.
 
 
 # For anyone else who is looking at this repo
