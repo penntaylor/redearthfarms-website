@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 import glob
 import os.path
+from pathlib import Path
 import json
 
 AUTHOR = 'REF'
@@ -59,11 +60,15 @@ MENUITEMS = makemenuitems(MENUITEMS, SITEURL)
 # Images for the sidebar
 #
 # Grab all files in sidebar image dir
-imgs = glob.glob(PATH + "/images/sidebar/*.*")
+root = os.path.dirname(os.path.realpath(__file__))
+contentpath = Path(root) / Path(PATH)
+imgs = glob.glob(contentpath.as_posix() + "/images/sidebar/*.*")
+rimgs = [Path(x).relative_to(contentpath).as_posix() for x in imgs]
+print(rimgs)
 # Munge paths to output location of images -- strips 'content/' from head and re-homes to SITEURL
 def makebarimgs(siteurl):
     prefix = (siteurl + '/') if siteurl else ''
-    return [prefix + os.path.relpath(f, PATH) for f in imgs]
+    return [prefix + f for f in rimgs]
 
 BARIMGS = makebarimgs(SITEURL)
 # JSON array string to simplify use in templates
