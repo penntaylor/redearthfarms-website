@@ -64,7 +64,6 @@ root = os.path.dirname(os.path.realpath(__file__))
 contentpath = Path(root) / Path(PATH)
 imgs = glob.glob(contentpath.as_posix() + "/images/sidebar/*.*")
 rimgs = [Path(x).relative_to(contentpath).as_posix() for x in imgs]
-print(rimgs)
 # Munge paths to output location of images -- strips 'content/' from head and re-homes to SITEURL
 def makebarimgs(siteurl):
     prefix = (siteurl + '/') if siteurl else ''
