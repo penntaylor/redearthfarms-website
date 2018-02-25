@@ -16,7 +16,7 @@ We appreciate any and all monetary donations; they help make it possible for us 
 
 Visitors will be expected to pitch in with our daily tasks, and this certainly helps to compensate for our costs.
 
-If you would like to schedule a visit we ask that you write us a letter covering the points listed below. Please send your letter in the body of an email (not as an attachment) or by postal mail. Your letter will be made available for everyone to read before you arrive. If you are planning to visit Red Earth Farms with other people (i.e. your partner, friend, or family), each person should write a separate letter.
+If you would like to schedule a visit we ask that you write us a letter covering the points listed below. Please send your letter as plain text in the body of an email (not as an attachment) or by postal mail. ([Relevant addresses]({filename}contact-us.md)) Your letter will be made available for everyone to read before you arrive. If you are planning to visit Red Earth Farms with other people (i.e. your partner, friend, or family), each person should write a separate letter.
 
 **Points to Cover**
 
