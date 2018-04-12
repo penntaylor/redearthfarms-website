@@ -2,11 +2,17 @@
 
 Code and public assets for redearthfarms.org website.
 
-**DO NOT CHECK SECRETS, CREDENTIALS, OR PRIVATE INFO INTO THIS REPOSITORY. IT IS OPEN TO ANY AND ALL PRYING EYES!**
+---
+
+Did a Red Earth member send you here to find editable versions of our basic documents? If so, look under `content/docs/editable` to find open-document versions of some of our documents.
+
+Otherwise, there isn't anything here that isn't available directly from our website, aside from some python scripts that make the sausage.
 
 ---
 
 # For Community members
+
+**DO NOT CHECK SECRETS, CREDENTIALS, OR PRIVATE INFO INTO THIS REPOSITORY. IT IS OPEN TO ANY AND ALL PRYING EYES!**
 
 Everything you are concerned with lives in the content directory. All pages in /content use Markdown formatting rather than raw html. Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown if you need some help getting the formatting you want.
 
@@ -26,8 +32,7 @@ Open this page again in a new tab. Open the [Markdown cheatsheet](https://github
 
 ## Images
 
-### On people or leasehold pages
-Images should have a maximum width of 400 pixels.
+Images on people and leasehold pages should have a maximum width of 400 pixels.
 
 ### On the rotating sidebar
 Images should be jpeg, 180x120 pixels (max), and have all metadata stripped. Batch conversion can be done with imagemagick as follows:
@@ -40,9 +45,9 @@ Alternatively, black bars can be added to pad out images that don't have 3:2 asp
 convert -strip -resize 180x120 -background black -gravity center -extent 180x120 $f small/$f
 ```
 
+# How Do I ... ?
+## Rename a file
+Upload a file with the new name, then delete the version with the old name.
 
-# For anyone else who is looking at this repo
-
-Did a Red Earth member send you here to find editable versions of our basic documents? If so, look under `content/docs/editable` to find open-document versions of some of our documents.
-
-Otherwise, there isn't anything available here that isn't available directly from our website, except for some of the python scripts that make the sausage.
+## Edit / Resize an image
+Download the image to your local computer, then use whichever image manipulation program you're familiar with to resize, rescale, adjust colors, etc. Overwrite your local version with the edited version, then upload it back to the repository.
