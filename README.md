@@ -24,6 +24,17 @@ Everything you are concerned with lives in the content directory. All pages in /
 ## Super-secret tips and hints
 Open this page again in a new tab. Open the [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in another tab as well. Now you can easily flip between these instructions, the markdown docs, and the page you're trying to edit.
 
+## Sidebar images
+Images should be jpeg, 180x120 pixels (max), and have all metadata stripped. Batch conversion can be done with imagemagick as follows:
+```
+mkdir small
+for f in *.jpg; do convert -strip -resize 180x120 $f small/$f; done
+```
+Alternatively, black bars can be added to pad out images that don't have 3:2 aspect ratio by replacing the `convert` part above with:
+```
+convert -strip -resize 180x120 -background black -gravity center -extent 180x120 $f small/$f
+```
+
 
 # For anyone else who is looking at this repo
 
