@@ -24,7 +24,12 @@ Everything you are concerned with lives in the content directory. All pages in /
 ## Super-secret tips and hints
 Open this page again in a new tab. Open the [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in another tab as well. Now you can easily flip between these instructions, the markdown docs, and the page you're trying to edit.
 
-## Sidebar images
+## Images
+
+### On people or leasehold pages
+Images should have a maximum width of 400 pixels.
+
+### On the rotating sidebar
 Images should be jpeg, 180x120 pixels (max), and have all metadata stripped. Batch conversion can be done with imagemagick as follows:
 ```
 mkdir small
