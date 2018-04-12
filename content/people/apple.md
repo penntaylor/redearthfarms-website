@@ -1,5 +1,5 @@
 Title: apple wood
-TopImage: /images/people/mica.JPG
+TopImage: /images/people/fullsizeoutput_d0.jpeg
 
 Member since 2017
 
