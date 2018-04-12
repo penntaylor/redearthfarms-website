@@ -1,5 +1,5 @@
 Title: apple wood
-TopImage: images/people/fullsizeoutput_d0.jpeg
+TopImage: images/people/apple.jpg
 
 Member since 2017
 
