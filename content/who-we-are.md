@@ -6,7 +6,7 @@ Below is a list of the people of Red Earth Farms according to their homesteads. 
 
 Bindle: [Jacob]({filename}people/jacob.md)
 
-Coyote Song: Apple
+Coyote Song: [apple]({filename}people/apple.md)
 
 [Chad]({filename}people/chad.md)
 
