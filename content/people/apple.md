@@ -1,5 +1,5 @@
 Title: apple wood
-TopImage: redearthfarms-website/content/images/people/IMG_0109.JPG
+TopImage: /images/people/IMG_0109.JPG
 
 Member since 2017
 
