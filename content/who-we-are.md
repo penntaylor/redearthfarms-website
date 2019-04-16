@@ -18,4 +18,4 @@ The Taylors:  Laura, [Penn]({filename}people/penn.md), [Georgia]({filename}peopl
 
 Whimseyshire: Carolyn, Matt, Henri
 
-[Yarrow](https://wildfloweradventures.wordpress.com/yarrow-hill-farms-available/): Valerie, Jack, Natalie, Layla, Gwendolynn
+Birdsfoot Hollow: [tomcat](https://www.instagram.com/feraltomcat/), Lauren, Wild Horse, Wumbles, Weestie
