@@ -5,4 +5,4 @@ Our community is located on 76 acres of rolling hills in northeast Missouri, wit
 
 Below is a map of our homesteads and their leaseholds. At this time, there are no plots of land available for lease to incoming members. It is possible that current leaseholders could make land available to folks who are interested in joining Red Earth Farms. There are also existing homesteads looking for additional folks to join them.
 
-![Aerial map of Red Earth Farms]({filename}images/ref_map.jpg)
+![Aerial map of Red Earth Farms]({filename}images/ref_map2.jpg)
