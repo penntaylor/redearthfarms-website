@@ -1,10 +1,10 @@
 Title: Visiting
 
-Red Earth Farms welcomes scheduled visitors only. We are open to new members who are aligned with REF’s values and who have the skills and means to take on a challenging adventure in homesteading. Currently there are plots of land available for lease and additionally there are some existing households open to new folks joining them in sub-community.
+Red Earth Farms welcomes scheduled visitors only. We are open to new members who are aligned with REF’s values and who have the skills and means to take on a challenging adventure in homesteading. Currently there are no plots of land available for lease; however, there are some existing households open to new folks joining them in sub-community.
 
 Because we have limited resources, we will give precedence to visitors who are genuinely interested in joining a community like ours, rather than those who are just passing through. We suggest a stay of at least five days in order for us to really get to know one other.
 
-**We will be open to hosting visitors May through October 2018**
+**We are be open to hosting visitors May through October 2019**
 
 We value affordability and wish for everyone who wants to visit to be able to manage it. We also recognize that it does cost us to host visitors in regards to both the basic expense of food and facilities as well as the non-monetary outlay of time and energy spent on orientation and integration of new people into this lifestyle.
 
