@@ -16,4 +16,4 @@ The Taylors:  Laura, [Penn]({filename}people/penn.md), [Georgia]({filename}peopl
 
 Whimsyshire: Carolyn, Matt, Henri
 
-Birdsfoot Hollow: [tomcat](https://www.instagram.com/feraltomcat/), Lauren, Wild Horse, Wumbles, Weestie
+Birdsfoot Hollow: [tomcat](https://www.instagram.com/feraltomcat/), Lauren, Wild Horse, Veda (Wumbles), Izora (Weestie)
