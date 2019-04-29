@@ -25,7 +25,7 @@ Everything you are concerned with lives in the content directory. All pages in /
   * put a very brief description of the changes you made into the first box; eg. "Added basic instructions to the README"
   * ensure that "Commit directly to the `master` branch." is selected
   * click the "Commit changes" button
-  * after ~20 seconds, the live website should be updated with your changes. Test by browsing to the site and being sure to refresh the particular page(s) you edited. If your changes still don't show up, try clearing your browser's cache and refreshing the page again. If you're still having trouble, email Penn. *At the moment, this is broken. Penn is working on it. Touch.*
+  * after ~20 seconds, the live website should be updated with your changes. Test by browsing to the site and being sure to refresh the particular page(s) you edited. If your changes still don't show up, try clearing your browser's cache and refreshing the page again. If you're still having trouble, email Penn.
   
 ## Super-secret tips and hints
 Open this page again in a new tab. Open the [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in another tab as well. Now you can easily flip between these instructions, the markdown docs, and the page you're trying to edit.
