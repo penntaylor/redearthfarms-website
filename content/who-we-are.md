@@ -10,10 +10,12 @@ Coyote Song: [apple]({filename}people/apple.md)
 
 [Dandelion]({filename}leaseholds/dandelion.md): [Kim]({filename}people/kim.md), [Nina]({filename}people/nina.md)
 
+[tomcat](https://www.instagram.com/feraltomcat/)
+
 [Gooseberry](http://mazzo-strawbale.blogspot.com/p/welcome-mark-alyson-and-cole-and-for.html): [Alyson]({filename}people/alyson.md), [Mark]({filename}people/mark.md), [Cole]({filename}people/cole.md)
 
 The Taylors:  Laura, [Penn]({filename}people/penn.md), [Georgia]({filename}people/georgia.md), [July]({filename}people/will.md), Comeese 
 
 Whimsyshire: Carolyn, Matt, Henri
 
-Birdsfoot Hollow: [tomcat](https://www.instagram.com/feraltomcat/), Lauren, Wild Horse, Veda (Wumbles), Izora (Weestie)
+Birdsfoot Hollow: Lauren, Wild Horse, Veda (Wumbles), Izora
