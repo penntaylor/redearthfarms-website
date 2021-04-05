@@ -18,3 +18,5 @@ MS Mechanical Engineering, Iowa State University, focus on thermofluid systems a
 
 Work:
 Currently a Software developer in the agricultural industry
+
+  
