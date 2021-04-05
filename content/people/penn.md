@@ -17,4 +17,4 @@ BS Physics, University of Oklahoma, focus on quantum physics
 MS Mechanical Engineering, Iowa State University, focus on thermofluid systems and biomass combustion
 
 Work:
-Currently a Software developer in the agronomics industry
+Currently a Software developer in the agricultural industry
