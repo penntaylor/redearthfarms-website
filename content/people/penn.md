@@ -7,7 +7,7 @@ Interests:
 Appropriate technology, combustion, heat transfer, anti-racism, simulation and modeling, solar thermal applications, programming languages, category theory, anarchism, music, edge tools, superinsulated construction, rational thought, my family, chickens, ducks, guineafowl, goats, sheep, horses, West Africa, Central America, human languages, food security, a million other things.
 
 Motivating factors:
-Desire to help others, love, morality, duty, respect, fear, guilt, humor.
+Desire to help others, love, morality, duty, respect, fear, humor.
 
 Places:
 Mississippi, Oklahoma, Washington D.C./NOVA/MD, Iowa, Missouri.
