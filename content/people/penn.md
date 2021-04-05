@@ -4,7 +4,7 @@ TopImage: images/people/penn.jpg
 Member since 2011
 
 Interests:
-Appropriate technology, combustion, heat transfer, anti-racism, solar thermal applications, programming languages, category theory, anarchism, music, edge tools, superinsulated construction, my family, chickens, ducks, West Africa, Central America, human languages, food security, a million other things.
+Appropriate technology, combustion, heat transfer, anti-racism, solar thermal applications, programming languages, category theory, anarchism, music, superinsulated construction, my family, chickens, ducks, West Africa, Central America, human languages, food security, a million other things.
 
 Motivating factors:
 Desire to help others, love, morality, respect, fear, humor.
