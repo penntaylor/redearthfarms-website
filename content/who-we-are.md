@@ -18,4 +18,4 @@ The Taylors:  Laura, [Penn]({filename}people/penn.md), [Georgia]({filename}peopl
 
 Whimsyshire: Carolyn, Matt, Henri
 
-Birdsfoot Hollow: Lauren, Wild Horse, Veda (Wumbles), Izora
+Birdsfoot Hollow: Lauren, Veda (Wumbles), Izora
