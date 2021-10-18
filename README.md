@@ -17,7 +17,8 @@ Otherwise, there isn't anything here that isn't available directly from our webs
 Everything you are concerned with lives in the content directory. All pages in /content use Markdown formatting rather than raw html. Here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown if you need some help getting the formatting you want.
 
 ## To edit a page:
-* find it in `/content` (or perhaps `/content/people` or `/content/leaseholds`; you get the idea)
+* the "table" near the top of this page is actually a file explorer. Click on the **name** of a folder to enter that folder, e.g. `content`
+* find the page you want to edit in `/content` (or perhaps `/content/people` or `/content/leaseholds`; you get the idea)
 * click on the **name** of the page (eg. `cooperatives.md`). The page's text contents should now be displayed in a text pane.
 * select the little icon that looks like a pencil in the upper right of the text pane
 * edit the text however you want. (Don't try to use the "Preview changes" tab on the text pane. It doesn't do what you expect, and you'll wonder why everything looks wrong.)
@@ -46,6 +47,15 @@ convert -strip -resize 180x120 -background black -gravity center -extent 180x120
 ```
 
 # How Do I ... ?
+## Add a link to a page inside the REF website
+`[my link text]({filename}path/to/file.md)` Example: If you're editing the file who-we-are.md and want to add a link to Fido: `[Fido the Dog]({filename}people/fido.md)` Notice that `{filename}` is the literal text '{filename}'
+
+## Add a link to an external website
+`[my link text](https://foo.com)`
+
+## Place an image into a page
+`![Image alt text]({filename}path/to/image.jpg)` Notice this is nearly the same as adding a link to a page within the website, but has a leading `!`
+
 ## Rename a file
 Upload a file with the new name, then delete the version with the old name.
 
