@@ -8,8 +8,6 @@ Because we have limited resources, we will give precedence to visitors who are g
 
 We value affordability and wish for everyone who wants to visit to be able to manage it. We also recognize that it does cost us to host visitors in regards to both the basic expense of food and facilities as well as the non-monetary outlay of time and energy spent on orientation and integration of new people into this lifestyle.
 
-Upon being accepted for a visit, we request that a **placeholder fee of $5/adult/day** be paid in advance (via check, cash, PayPal transfer) to whatever community member or group is taking the role of host. After arriving, if a visitor would like to extend or shorten their stay that can be worked out with the host. If a prospective visitor decides to cancel their visit then the placeholder fee will be refunded so long as the cancellation occurs more than three weeks prior to the scheduled visit. The object of having this placeholder fee is to minimize the amount of wasted effort on people who don’t show up and to encourage more serious visitor applicants.
-
 Basic food and facilities cost us approximately $7/day per person, depending on the season. If we pick you up in a vehicle, the trip will cost us 60¢/mile. Visitors should plan to cover their pickup costs. Sometimes ride-share arrangements are available.
 
 We appreciate any and all monetary donations; they help make it possible for us to host visitors who aren’t able to contribute as much financially.
