@@ -28,6 +28,14 @@ Everything you are concerned with lives in the content directory. All pages in /
   * click the "Commit changes" button
   * after ~20 seconds, the live website should be updated with your changes. Test by browsing to the site and being sure to refresh the particular page(s) you edited. If your changes still don't show up, try clearing your browser's cache and refreshing the page again. If you're still having trouble, email Penn.
   
+## To update a pdf document or add a new document/image/etc.:
+* use the file table above this text to navigate to the folder you want to update or add a file to
+* in the upper right of the file list inside that folder, there is a dropdown button labeled "Add file"; click it
+* select "Upload files" and then follow the onscreen instructions to select the file on your computer that you want to upload
+  * if you're adding a *new* file, the file can be named whatever you want
+  * if you're *updating* an existing file, the file you're uplaoding must have the *exact* same name. **CapiTaLiZatiON MatTErs!**
+* refer to the instructions for "Commit Changes" above
+  
 ## Super-secret tips and hints
 Open this page again in a new tab. Open the [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) in another tab as well. Now you can easily flip between these instructions, the markdown docs, and the page you're trying to edit.
 
