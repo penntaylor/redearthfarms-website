@@ -17,3 +17,5 @@ Sweet Clover:  Laura,  [Georgia]({filename}people/georgia.md), [July]({filename}
 Birdsfoot Hollow: Lauren, Veda (Wumbles), Izora
 
 Northwind: [Mark]({filename}people/mark.md) 
+
+Pueblo Palmares
