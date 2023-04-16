@@ -15,3 +15,7 @@ Our policies and agreements are documented in the following PDFs. We provide the
 * [REFCLT Residency Agreement]({filename}docs/REFCLT_residency_agreement.pdf)
 * [REFCLT Resident Lease Agreement]({filename}docs/REFCLT_resident_lease_agreement.pdf)
 * [REFCLT Group Held Values]({filename}docs/REFCLT_group_held_values.pdf)
+
+* [Seeds for Change Cooperative's Short Guide to Consensus Decision Making](https://www.seedsforchange.org.uk/shortconsensus)
+
+
