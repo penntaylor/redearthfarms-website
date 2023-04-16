@@ -14,6 +14,4 @@ Coyote Song: [apple]({filename}people/apple.md)
 
 Sweet Clover:  Laura,  [Georgia]({filename}people/georgia.md), [July]({filename}people/will.md), Comeese 
 
-Whimsyshire: Carolyn, Matt, Henri
-
 Birdsfoot Hollow: Lauren, Veda (Wumbles), Izora
