@@ -4,7 +4,7 @@ Category: Who We Are
 
 Below is a list of the people of Red Earth Farms according to their homesteads. If you click on a name you might find a photo, some biographical information, and maybe even a blog about their thoughts and views. There is also a list of homesteads; a click on one of these might reveal additional pictures and stories unique to that particular place on our land.
 
-Bindle: Joe
+Solidago: Joe
 
 Coyote Song: [apple]({filename}people/apple.md)
 
