@@ -10,8 +10,6 @@ Coyote Song: [apple]({filename}people/apple.md)
 
 [Dandelion]({filename}leaseholds/dandelion.md): [Kim]({filename}people/kim.md), [Nina]({filename}people/nina.md)
 
-[tomcat](https://www.instagram.com/feraltomcat/)
-
 [Gooseberry](http://mazzo-strawbale.blogspot.com/p/welcome-mark-alyson-and-cole-and-for.html): [Alyson]({filename}people/alyson.md), [Mark]({filename}people/mark.md), [Cole]({filename}people/cole.md)
 
 Sweet Clover:  Laura,  [Georgia]({filename}people/georgia.md), [July]({filename}people/will.md), Comeese 
