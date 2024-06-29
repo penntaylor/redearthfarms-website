@@ -4,7 +4,7 @@ TopImage: images/people/alyson.jpg
 Cofounder, Member since 2005
 Gooseberry
 
-I was born in Easton, PA, on January 26, 1969 to Richard and Gaelen Ewald. My younger brother Alec and I grew up mostly in Vermont, and later I spent many formative years in Russia. Now I’m Mark’s partner, Cole’s mama, a baker, a facilitator, an organizer, a gardener, and a fundraiser.
+I was born on the banks of the Delaware River in Pennsylvania, my younger brother and I grew up mostly in Vermont, and later I spent many formative years in Russia. Now I’m a parent, a teacher, a baker, a facilitator, an organizer, a gardener, and a fundraiser.
 
 One of the experiences that broadened my early horizons was a journey my family took when I was eight. My parents sold our house, bought an old Sunbeam bread truck, and converted it into a camper. That summer we headed west looking for a new home. My brother Alec and I were home-schooled while we were on the road, and I still remember visiting caves and parks on the way, reading the Narnia chronicles, and learning math from figuring out our (dismal) gas mileage. A sign of my parents’ influence is that on the ceiling of the truck was a map where, along with our route, my father had marked every nuclear power plant in the country so that we could give them a wide berth.
 
@@ -34,16 +34,16 @@ It only took a couple of years of paying exorbitant rent, relying on cars, and f
 
 DR’s Skyhouse Community, an income-sharing group, was my home for three and a half years. Besides serving our community in many ways, I brought in a modest income by working on Russian environmental projects, writing grants and helping organize exchange programs for Sacred Earth Network and The Altai Project (a project of Earth Island Institute). Until 2008 I continued to work for The Altai Project and for the Fellowship for Intentional Community.
 
-In 2003 I married Chad Knepp, formerly of Sandhill community and Acorn community. Although we divorced a few years later, we continue to have a strong relationship as community members and friends.
+In 2003 I married Chad Knepp, formerly of Sandhill community and Acorn community. Although we divorced a few years later, we continued to have a strong relationship as community members and friends for many years.
 
-Chad’s a permaculture-based farmer, and struggled to find a way he could fit his dreams and vision into Dancing Rabbit’s “village” land use model. He wanted to be not in a village but on an outlying farm. After much discussion, contemplation, and exploration, we decided to seek ways to be near the village while creating a different kind of community. Fortune smiled upon us when another couple visited DR and later returned to join our efforts. And with Corey and Kim’s arrival, Red Earth Farms was born.
+Chad was a permaculture-based farmer, and struggled to find a way he could fit his dreams and vision into Dancing Rabbit’s “village” land use model. He wanted to be not in a village but on an outlying farm. After much discussion, contemplation, and exploration, we decided to seek ways to be near the village while creating a different kind of community. Fortune smiled upon us when another couple visited DR and later returned to join our efforts. And with Corey and Kim’s arrival, Red Earth Farms was born.
 
 Fortune grinned again (we must have looked amusing) and sent us an angel: Aron Heintz, a friend who had been seeking initiatives like ours in which to invest. We stumbled upon the perfect piece of land, right next to DR, and learned it was for sale. Aron helped us purchase it, and on Summer Solstice 2005, Red Earth Farms acquired our lovely 76 green acres.
 
-Love and romance have always been an important part of life for me. In 2006 I became re-acquainted with Mark Mazziotti, whom I’d met several years previously at a natural building event. We fell deeply in love, and before long he moved to Red Earth Farms, where we’re now sharing our lives.
+Love and romance have always been an important part of life for me. In 2006 I became re-acquainted with Mark Mazziotti, whom I’d met several years previously at a natural building event. We fell in love, and before long he moved to Red Earth Farms.
 
-On March 25, 2008, our daughter Cole was born here at home. She is a delightful little person who loves to learn and grow, and I’m thrilled to have the privilege of being near her as she does so.
+In 2008, our daughter Cole was born here at home. She is a delightful person who loves to learn and grow, and I’m thrilled to have the privilege of being near her as she does so.
 
-My life here is diverse, relaxed, and full of new learning opportunities. I am where I want to be, doing what I want to do, with the people I want to do it with. I spend my time with friends at Red Earth, Dancing Rabbit, and Sandhill. I enjoy maple sugaring, playing ultimate frisbee, swimming in the ponds, hunting wild mushrooms, singing, facilitation, swing dancing, baking bread, fundraising, and learning about ways to grow, ferment and preserve food.
+My life here is diverse, relaxed, and full of new learning opportunities. I am where I want to be, doing what I want to do, with the people I want to do it with. I spend my time with friends at Red Earth, Dancing Rabbit, and Sandhill. I enjoy maple sugaring, playing ultimate frisbee, swimming in the ponds, hunting wild mushrooms, singing, facilitation, swing dancing, baking bread, and learning about ways to grow, ferment and preserve food. In 2022 I began a new career as a Junior High English teacher, so now I have less time for other things... except in the summer. 
 
 I want our community to be a clear and visible demonstration of a thoughtful and compassionate way to live on this Earth. I want to create a home where my family, friends, and I can learn, love, grow and flourish. Not to mention having fun! And I hope you and others will be inspired by our vision and our practice.
