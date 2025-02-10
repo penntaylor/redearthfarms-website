@@ -4,7 +4,7 @@ Red Earth Farms welcomes scheduled visitors only. We are open to new members who
 
 Because we have limited resources, we will give precedence to visitors who are genuinely interested in joining a community like ours, rather than those who are just passing through. We suggest a stay of at least five days in order for us to really get to know one other.
 
-**We are be open to hosting visitors May through October 2023**
+**We are be open to hosting visitors May through October 2025**
 
 We value affordability and wish for everyone who wants to visit to be able to manage it. We also recognize that it does cost us to host visitors in regards to both the basic expense of food and facilities as well as the non-monetary outlay of time and energy spent on orientation and integration of new people into this lifestyle.
 
