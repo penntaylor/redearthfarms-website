@@ -1,6 +1,6 @@
 Title: Visiting
 
-Red Earth Farms welcomes scheduled visitors only. We are open to new members who are aligned with REF’s values and who have the skills and means to take on a challenging adventure in homesteading. Currently there are no plots of land available for lease; however, there are some existing households open to new folks joining them in sub-community.
+Red Earth Farms welcomes scheduled visitors only. We are open to new members who are aligned with REF’s values and who have the skills and means to take on a challenging adventure in homesteading. There is currently land available for lease, as well as an existing household open to new folks joining them in sub-community.
 
 Because we have limited resources, we will give precedence to visitors who are genuinely interested in joining a community like ours, rather than those who are just passing through. We suggest a stay of at least five days in order for us to really get to know one other.
 
